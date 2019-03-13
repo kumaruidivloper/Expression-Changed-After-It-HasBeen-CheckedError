@@ -1,3 +1,16 @@
+https://www.youtube.com/watch?v=DcqeQ-ku6r8
+
+#Def:
+1: This Error deals with angular change detection mechanism
+
+angular change detection cycle has two loops
+
+
+First loop store all the values
+Second loop check all the values
+
+--------***********-------------------------------------------------
+
 # ExpressionChangedAfterItHasBeenCheckedError
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
